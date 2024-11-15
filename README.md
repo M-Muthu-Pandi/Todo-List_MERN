@@ -105,5 +105,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Your Name](https://github.com/your-username)  
+[Muthupandi M](https://github.com/M-Muthu-Pandi)  
 Feel free to contribute, raise issues, or fork the repository for your own use.
