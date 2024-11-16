@@ -45,7 +45,7 @@ The backend is built using Node.js, Express, and MongoDB. It includes the follow
 1. Clone the repository:
    ```bash
    git clone https://github.com/M-Muthu-Pandi/Todo-List_MERN.git
-   cd Todo-List_MERN/BackEnd
+   cd Todo-List_MERN/backend
    ```
 2. Install dependencies:
    ```bash
@@ -64,7 +64,7 @@ The backend is built using Node.js, Express, and MongoDB. It includes the follow
 ### Frontend Setup
 1. Navigate to the frontend directory:
    ```bash
-   cd ../FrontEnd
+   cd ../frontend
    ```
 2. Install dependencies:
    ```bash
